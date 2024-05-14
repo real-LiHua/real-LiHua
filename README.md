@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Li Hua</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-i-h-u-a&label=Profile views&color=0e75b6&style=flat" alt="l-i-h-u-a" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l-i-h-u-a" alt="l-i-h-u-a" /></a> </p>
 
