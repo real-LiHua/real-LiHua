@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Li Hua</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l-i-h-u-a" alt="l-i-h-u-a" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=l-i-h-u-a" alt="l-i-h-u-a" /></a> </p>
 
 - 📫 How to reach me **lihua@email.com**
 
