@@ -1584,7 +1584,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/MS-DOS</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes</div>
@@ -1637,7 +1637,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LSPosed/LSPlt</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple PLT hook for Android</div>
@@ -1690,7 +1690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>curl/curl</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</div>
@@ -1743,7 +1743,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Genymobile/scrcpy</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Display and control your Android device</div>
@@ -2043,7 +2043,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="133.19095477386935 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="133.96984924623115 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2065,10 +2065,10 @@
                                     <span class="prefix"></span>
                                     Deployer
                                     <div class="value-wrapper">
-                                        <div class="value">172</div>
+                                        <div class="value">173</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 172 times</div>
+                                <div class="text">Repositories have been deployed 173 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2363,7 +2363,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.27m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.27m out of 208m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2504,7 +2504,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Jun 2024, 15:13:25 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jun 2024, 16:16:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
