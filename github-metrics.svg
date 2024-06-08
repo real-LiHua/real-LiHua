@@ -1662,7 +1662,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>douniwan5788/zte_modem_tools</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tools for zte modem</div>
@@ -2056,7 +2056,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.283333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="24.8 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2078,10 +2078,10 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">247</div>
+                                        <div class="value">248</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 247 times</div>
+                                <div class="text">Repositories have been deployed 248 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2376,7 +2376,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.27m out of 209m repositories</span>
+                                    <span class="gh">ranked 5.27m out of 210m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2517,7 +2517,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2024, 19:11:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2024, 20:21:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
