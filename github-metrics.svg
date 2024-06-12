@@ -167,7 +167,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    Prefers Other license
+                                    Prefers GPL-3.0 license
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -373,14 +373,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.1541420091719" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="442.1541420091719" y="0" width="6.514500695580446" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="448.66864270475236" y="0" width="5.310220708553195" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="453.9788634133056" y="0" width="1.775119909680019" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.7539833229856" y="0" width="1.1836798661011536" height="8" fill="#438eff"/>
-                    <rect mask="url(#languages-bar)" x="456.9376631890867" y="0" width="1.1307349326517984" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.06839812173854" y="0" width="1.1085498542658148" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="459.1769479760044" y="0" width="0.8230520239956489" height="8" fill="#0298c3"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="442.1505909163242" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="442.1505909163242" y="0" width="6.51444837537211" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="448.6650392916963" y="0" width="5.310178060333975" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="453.9752173520303" y="0" width="1.775105653078042" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.7503230051083" y="0" width="1.1836703595587352" height="8" fill="#438eff"/>
+                    <rect mask="url(#languages-bar)" x="456.93399336466706" y="0" width="1.130725851328453" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.0647192159955" y="0" width="1.1122353702243026" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="459.17695458621984" y="0" width="0.8230454137801652" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1690,7 +1690,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>douniwan5788/zte_modem_tools</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">tools for zte modem</div>
@@ -2095,7 +2095,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="71.81666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="72.33333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2117,10 +2117,10 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     <span class="prefix">Great</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">339</div>
+                                        <div class="value">340</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 339 times</div>
+                                <div class="text">Repositories have been deployed 340 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2415,7 +2415,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.28m out of 208m repositories</span>
+                                    <span class="gh">ranked 5.28m out of 202m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2556,7 +2556,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Jun 2024, 19:12:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jun 2024, 20:24:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
