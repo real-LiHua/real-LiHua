@@ -1,5 +1,7 @@
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=real-LiHua" alt="real-LiHua" /></a> </p>
+<div href="#">
+  <img align="right" src="github-metrics.svg" />
+</div>
+[![real-LiHua](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=real-LiHua)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **lihua@email.com**
 
