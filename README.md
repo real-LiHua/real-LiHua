@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=real-lihua&label=Profile%20views&color=0e75b6&style=plastic" alt="real-lihua" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=real-lihua" alt="real-lihua" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=real-lihua" alt="real-lihua" /></a> </p>
 
 - 📫 How to reach me **lihua@email.com**
 
