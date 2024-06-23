@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 5 users
+                            Followed by 4 users
                         </div>
                     </section>
                     <section>
@@ -1787,7 +1787,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    5 followers
+                    4 followers
                 </h2>
                 <div class="row">
                     <section class="people">
@@ -1795,7 +1795,6 @@
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAwUGBAII/8QAKhAAAQMDAwMDBAMAAAAAAAAAAQIDBAURIQASMRMiQQZRYRQVcZHB0fD/xAAYAQEAAwEAAAAAAAAAAAAAAAAFAAMGB//EACIRAAEEAQMFAQAAAAAAAAAAAAEAAgMRBAUxQRIhYXGB0f/aAAwDAQACEQMRAD8A8+U+XKgzOpT3A2tdhnznzfxpm3NX148mRIt3byAi+088YvqlFPoqA2tbMdF0ixWvJ45uTokWDCEuEpTTZD6iEshIJ6Yt74zn9a6NHiZDBTj8SkmlyBoHUPVnn9SqkTXXgy49TnX027FhaUWN8G5ScfAt+dUUZa+gj6mH1HM5CEkAX450SJFbhuuxYyXFobUChKbXAPj/AHvrBImT+p2R0JTbAVJbv/GkY4nEW51paHTMfHYDkWb8cj0l0muCpqn1GVGjBpIQhEZoENg8Yubg/PzpdTK1Jdqocjw3XnAFdNpm5CAEkmwycAfq+uXn3XqAwlxZKHHUqUkYBOc40OnUxCi26h+Q05ttdtQHN0nx7Y0NlZz4nUNgs0ZXwtaQe+/3yqX0d6kajV5CpEdAiSmrJ23Pfxuz8341ipdIi1RMqQ59wID60ILLG8bRxm/Op+FIMXalLaVkYSpZUSj8ZxoT0l6O4ptpSUoHjYn+tVDUiWBwuyoMpjQA+yv/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABgcCAwUE/8QAKRAAAgEDAwMDBAMAAAAAAAAAAQMCBAURAAYhEhNhByIxQVGBoTJxwf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBA//EABwRAAICAwEBAAAAAAAAAAAAAAECABEDEiEEE//aAAwDAQACEQMRAD8Aa+8r3U2Xdz6iNT2lLVCYznpkMcwI/egut9TtxTa3s19MqR5SpaBg8/Jzk/vXDcFHcF4r21dZUuY6RmVrHsgB9Bk4z41PZlis1bWi6mLYU6O8XRaeYdAEuceD+RoX1Yk6xWqitoR7b9QbvuG2dgsUahQPdKh0SmfoPH403NttY6xULKg5aVDqPnSFtNooqGifX21tVSwcSIhiusgw4JOCeNGmy9xXaNnK29DehsoiUQMEYHnWiuRxpm6g9EyfSQ01VeSYRMzJBZISiMD4H+6ZzKOmkGRdaUMDP54WsiY+mc4zpGenVXU26MKijfJbJKMD7YkEZj9xpg0m6bowO63QPTAEewauFhVGTMpJuaG8bZQ9umktKaWolGQLFqjwOPn7jnVG2I2mjtUFPcuLBIk8HnzoVrHzbX1C34bCcpEiYzqtO2rY6GSlkAD0iMHTiAP6B0fJ6Kbgj8XjBXpn/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgUGBwME/8QAKhAAAQMEAQIGAQUAAAAAAAAAAQIDBAAFESEGEhMUIjFBUXHwUoGi0dP/xAAYAQACAwAAAAAAAAAAAAAAAAAEBQEDBv/EABwRAAIDAAMBAAAAAAAAAAAAAAECAAMREjFBE//aAAwDAQACEQMRAD8A0zhrFlk2FTchpBlEe9Q/K7Xx63SwJ1yCM5ylooPR971TmwPCDGfm4IXHjrcwP1ge9Zbb2L9ya/zDHU2t9psuYdOiP3rNr43kb8OWqYUmXZn30Q7M1KmySrzFOCEo+TqhkWkpdICae8atN5sN1d7kZplucoeLCRkKAGcg+x3TuTbXlulXRgK2Pqiw6MNMGsqKtiwOHcvbulkNvfYjt3B1PaccWQEOt4wSCdA41j8CNblx4bcDJZPcYRltuWzsLHwazm1z34iSpkjyKBwRlKvsehqyXzq4yozcedFgSmmh1pDiFpwfnyqFL9KNnkZfMMJeQ+XP3S3Oyz4BpuOehSXTtxfrjZzv+69jMBvlbLd2XIdZLqenst6S3jWBv8zUCi6x3EHNltg6jk4Dv+lc18jkxiGo7LLTSRpKFugD+dU2XHoSFqHc/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcBAwQFCP/EAC4QAAEEAQIFAgMJAAAAAAAAAAECAwQFEQAhEhMiMWEGQVFxoQcUIzJDUoGR0f/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADESExIv/aAAwDAQACEQMRAD8A5urKWytUJVXQJcv8TlqLEdTmDtjsPpqy3qLKqioRZ1kiGrjUAp1koKjtkEn3G23nTwqbmPXembBuLFjRYcUHlMpb2WcdJz+dRz8SdCd1dO2aJMW6BRXE8Cm23ku8h7AIA78J6Dt8/I1Y4TG+zGl7OTgaEUWekA7/AMasAT+rzArwkaac/wBI0ljTzRSQ32ZMYJ+7qL3MckKwSQ4jsn27aVq0qWeskkdIyfYaSWWwNyEtf6ocYhuRJbCJMdW6cHhKD4+u2shu8rY0eUymKp4SXOatLhCxxYOPh+4/3oS7t76pSToNWGO46eRqMer+0OVSFCadmPGbwOIcvj4z54s/4daG0uKqfMXKk10huS91vciQG0KWTuoJKDjPz0MI7HUZ0xOOSYqAM//Z" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2014,7 +2013,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.68 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="39.99 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2036,10 +2035,10 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">628</div>
+                                        <div class="value">629</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 628 times</div>
+                                <div class="text">Repositories have been deployed 629 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2158,7 +2157,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.67m out of 138m users</span>
+                                    <span class="gh">ranked 3.67m out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -2289,7 +2288,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="3.1155778894472363 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.336683417085427 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2326,12 +2325,12 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.66m out of 138m users</span>
+                                    <span class="gh">ranked 3.16m out of 139m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">5</div>
+                                        <div class="value">4</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 5 users</div>
+                                <div class="text">Followed by 4 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2459,7 +2458,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.29m out of 207m repositories</span>
+                                    <span class="gh">ranked 5.29m out of 212m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2642,7 +2641,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jun 2024, 06:11:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Jun 2024, 07:13:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
