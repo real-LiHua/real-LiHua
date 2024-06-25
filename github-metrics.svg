@@ -1573,7 +1573,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LSPosed/Dobby</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a lightweight, multi-platform, multi-architecture hook framework.</div>
@@ -1626,7 +1626,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jmpews/Dobby</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">a lightweight, multi-platform, multi-architecture hook framework.</div>
@@ -1679,7 +1679,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fmtlib/fmt</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern formatting library</div>
@@ -1992,7 +1992,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.46 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.77 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2014,10 +2014,10 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                     <span class="prefix">Super</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">666</div>
+                                        <div class="value">667</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 666 times</div>
+                                <div class="text">Repositories have been deployed 667 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2136,7 +2136,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.67m out of 139m users</span>
+                                    <span class="gh">ranked 3.67m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">17</div>
                                     </div>
@@ -2304,7 +2304,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.16m out of 139m users</span>
+                                    <span class="gh">ranked 3.16m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -2437,7 +2437,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.29m out of 211m repositories</span>
+                                    <span class="gh">ranked 5.29m out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2620,7 +2620,7 @@ Signed-off-by: Li Hua &lt;lihua@email.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2024, 22:13:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2024, 23:13:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
