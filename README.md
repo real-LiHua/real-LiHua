@@ -3,11 +3,8 @@
 
 <p align="center"> <img src="https://count.kjchmc.cn/get/@real-Li-Hua?theme=gelbooru" alt="real-lihua"/> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=real-lihua" alt="real-lihua" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=real-lihua&column=5" alt="real-lihua" /></a> </p>
 
-- 📫 How to reach me **lihua@email.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
