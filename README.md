@@ -15,5 +15,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=real-lihua&show_icons=true&theme=radical&hide_border=true&locale=cn" alt="real-lihua" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real-lihua&theme=dark" alt="real-lihua" /></p>
+<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=real-LiHua&locale=zh_Hans&card_width=493" alt="GitHub Streak" /></a></p>
 
