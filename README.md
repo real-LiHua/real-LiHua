@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Li Hua</h1>
 <h3 align="center">An ordinary high school student from China</h3>
 
-<p align="center"> <img src="https://count.kjchmc.cn/get/@real-Li-Hua?theme=gelbooru" alt="real-lihua"/> </p>
+<p align="center"> <img src="http://count.kjchmc.cn/get/@real-Li-Hua?theme=gelbooru" alt="real-lihua"/> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=real-lihua&column=5&no-bg=true&no-frame=true&theme=onedark" alt="real-lihua" /></a> </p>
 
