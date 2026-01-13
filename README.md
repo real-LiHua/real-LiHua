@@ -16,4 +16,4 @@
 
 <p><img align="center" src="./profile/top-langs.svg" alt="real-lihua" /></p>
 
-[![Li Hua's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lihua)](https://github.com/anuraghazra/github-readme-stats)
+[![Li Hua's WakaTime stats](/profile/wakatime.svg)](https://github.com/anuraghazra/github-readme-stats)
