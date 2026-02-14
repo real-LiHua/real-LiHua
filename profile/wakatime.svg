@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="63.03%">
+      <svg data-testid="lang-progress" width="63.02%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="9.16%">
+      <svg data-testid="lang-progress" width="9.15%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -172,7 +172,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >128 hrs 10 mins</text>
+      >128 hrs 19 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1202,12 +1202,12 @@
     </g>
   </g><g transform="translate(0, 1175)">
     <g class="stagger" style="animation-delay: 7500ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Config">Config:</text>
+      <text class="stat bold" y="12.5" data-testid="kdl">kdl:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >42 mins</text>
+      >45 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1225,12 +1225,12 @@
     </g>
   </g><g transform="translate(0, 1200)">
     <g class="stagger" style="animation-delay: 7650ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="strace">strace:</text>
+      <text class="stat bold" y="12.5" data-testid="Config">Config:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >40 mins</text>
+      >42 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1248,7 +1248,7 @@
     </g>
   </g><g transform="translate(0, 1225)">
     <g class="stagger" style="animation-delay: 7800ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="tutor">tutor:</text>
+      <text class="stat bold" y="12.5" data-testid="strace">strace:</text>
       <text
         class="stat"
         x="350"
@@ -1271,12 +1271,12 @@
     </g>
   </g><g transform="translate(0, 1250)">
     <g class="stagger" style="animation-delay: 7950ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Vim Script">Vim Script:</text>
+      <text class="stat bold" y="12.5" data-testid="tutor">tutor:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >38 mins</text>
+      >40 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1294,12 +1294,12 @@
     </g>
   </g><g transform="translate(0, 1275)">
     <g class="stagger" style="animation-delay: 8100ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="confini">confini:</text>
+      <text class="stat bold" y="12.5" data-testid="Vim Script">Vim Script:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >36 mins</text>
+      >38 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1317,12 +1317,12 @@
     </g>
   </g><g transform="translate(0, 1300)">
     <g class="stagger" style="animation-delay: 8250ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TSConfig">TSConfig:</text>
+      <text class="stat bold" y="12.5" data-testid="confini">confini:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >34 mins</text>
+      >36 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1340,12 +1340,12 @@
     </g>
   </g><g transform="translate(0, 1325)">
     <g class="stagger" style="animation-delay: 8400ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Go Module">Go Module:</text>
+      <text class="stat bold" y="12.5" data-testid="TSConfig">TSConfig:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >33 mins</text>
+      >34 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1363,7 +1363,7 @@
     </g>
   </g><g transform="translate(0, 1350)">
     <g class="stagger" style="animation-delay: 8550ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="kdl">kdl:</text>
+      <text class="stat bold" y="12.5" data-testid="Go Module">Go Module:</text>
       <text
         class="stat"
         x="350"
