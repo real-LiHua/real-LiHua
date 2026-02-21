@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Li Hua &#30340; GitHub &#32479;&#35745;&#25968;&#25454;, Rank: B</title>
-        <desc id="descId">获标星数: 22, 累计提交总数  (去年) : 452, 发起的 PR 总数: 38, 合并的 PR 总数: 31, 被合并的 PR 占比: 81.58, 审查的 PR 总数: 29, 提出的 issue 总数: 8, 发起的讨论总数: 2, 回复的讨论总数: 0, 贡献的项目数（去年）: 10</desc>
+        <desc id="descId">获标星数: 22, 累计提交总数  (去年) : 452, 发起的 PR 总数: 39, 合并的 PR 总数: 31, 被合并的 PR 占比: 79.49, 审查的 PR 总数: 29, 提出的 issue 总数: 8, 发起的讨论总数: 2, 回复的讨论总数: 0, 贡献的项目数（去年）: 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 127.34515120753059;
+        stroke-dashoffset: 126.83435730301184;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >38</text>
+      >39</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >81.58 %</text>
+      >79.49 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
