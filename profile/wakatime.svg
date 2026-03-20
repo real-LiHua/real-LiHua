@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="62.81%">
+      <svg data-testid="lang-progress" width="62.79%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -172,11 +172,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >128 hrs 19 mins</text>
+      >128 hrs 28 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="5.66%">
+      <svg data-testid="lang-progress" width="5.67%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -241,7 +241,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >38 hrs 38 mins</text>
+      >39 hrs 4 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1915,7 +1915,7 @@
     </g>
   </g><g transform="translate(0, 1950)">
     <g class="stagger" style="animation-delay: 12150ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Image (jpeg)">Image (jpeg):</text>
+      <text class="stat bold" y="12.5" data-testid="MDX">MDX:</text>
       <text
         class="stat"
         x="350"
@@ -1938,12 +1938,12 @@
     </g>
   </g><g transform="translate(0, 1975)">
     <g class="stagger" style="animation-delay: 12300ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="zip">zip:</text>
+      <text class="stat bold" y="12.5" data-testid="Image (jpeg)">Image (jpeg):</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >12 mins</text>
+      >13 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1961,12 +1961,12 @@
     </g>
   </g><g transform="translate(0, 2000)">
     <g class="stagger" style="animation-delay: 12450ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Git Attributes">Git Attributes:</text>
+      <text class="stat bold" y="12.5" data-testid="zip">zip:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >11 mins</text>
+      >12 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -1984,12 +1984,12 @@
     </g>
   </g><g transform="translate(0, 2025)">
     <g class="stagger" style="animation-delay: 12600ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="RPMSpec">RPMSpec:</text>
+      <text class="stat bold" y="12.5" data-testid="Git Attributes">Git Attributes:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >9 mins</text>
+      >11 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -2007,7 +2007,7 @@
     </g>
   </g><g transform="translate(0, 2050)">
     <g class="stagger" style="animation-delay: 12750ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="desktop">desktop:</text>
+      <text class="stat bold" y="12.5" data-testid="RPMSpec">RPMSpec:</text>
       <text
         class="stat"
         x="350"
@@ -2030,12 +2030,12 @@
     </g>
   </g><g transform="translate(0, 2075)">
     <g class="stagger" style="animation-delay: 12900ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Stata">Stata:</text>
+      <text class="stat bold" y="12.5" data-testid="desktop">desktop:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >8 mins</text>
+      >9 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -2053,12 +2053,12 @@
     </g>
   </g><g transform="translate(0, 2100)">
     <g class="stagger" style="animation-delay: 13050ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Ruby">Ruby:</text>
+      <text class="stat bold" y="12.5" data-testid="Stata">Stata:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >7 mins</text>
+      >8 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -2076,12 +2076,12 @@
     </g>
   </g><g transform="translate(0, 2125)">
     <g class="stagger" style="animation-delay: 13200ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Jinja">Jinja:</text>
+      <text class="stat bold" y="12.5" data-testid="Ruby">Ruby:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >6 mins</text>
+      >7 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -2099,7 +2099,7 @@
     </g>
   </g><g transform="translate(0, 2150)">
     <g class="stagger" style="animation-delay: 13350ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="MDX">MDX:</text>
+      <text class="stat bold" y="12.5" data-testid="Jinja">Jinja:</text>
       <text
         class="stat"
         x="350"
