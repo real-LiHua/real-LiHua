@@ -130,7 +130,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
-      <svg data-testid="lang-progress" width="62.04%">
+      <svg data-testid="lang-progress" width="62.02%">
         <rect
             height="8"
             fill="#2f80ed"
@@ -241,7 +241,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >39 hrs 4 mins</text>
+      >39 hrs 22 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -259,12 +259,12 @@
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="Go">Go:</text>
+      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >35 hrs 32 mins</text>
+      >35 hrs 53 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -282,12 +282,12 @@
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
-      <text class="stat bold" y="12.5" data-testid="TypeScript">TypeScript:</text>
+      <text class="stat bold" y="12.5" data-testid="Go">Go:</text>
       <text
         class="stat"
         x="350"
         y="12.5"
-      >35 hrs 25 mins</text>
+      >35 hrs 32 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
@@ -494,7 +494,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >15 hrs 2 mins</text>
+      >15 hrs 3 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#434d58"></rect>
